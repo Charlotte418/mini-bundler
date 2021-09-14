@@ -1,0 +1,20 @@
+{
+  "name": "mini-bundler",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "js-beautify": "^1.14.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.15.5",
+    "@babel/parser": "^7.15.6",
+    "@babel/preset-env": "^7.15.6",
+    "@babel/traverse": "^7.15.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Charlotte418/mini-bundler.git"
+  },
+  "author": "Charlotte Chen",
+  "license": "ISC"
+}
